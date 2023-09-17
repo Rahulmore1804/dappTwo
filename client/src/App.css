@@ -1,0 +1,44 @@
+@import url("https://fonts.googleapis.com/css2?family=Edu+TAS+Beginner&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Ibarra+Real+Nova&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Oswald:wght@300&family=Sono:wght@300&display=swap");
+
+
+.App {
+  text-align: center;
+  font-family: "Sono", sans-serif;
+}
+
+.App-logo {
+  height: 40vmin;
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #09d3ac;
+}
+
+.tabs {
+  font-size: 20px;
+border: 1px solid black;
+width: 25vw;
+border-radius: 15px;
+margin: 10px;
+padding: 5px;
+background-color: aliceblue;
+}
+.main {
+  display: flex;
+  justify-content: center;
+  padding: 20px;
+  background-color: aquamarine;
+}
